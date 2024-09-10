@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 75px;
+    font-family: "verdana", sans-serif;
+}
+
+.headText {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.bodyText {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+
+.bttn {
+    border: 1px solid black;
+    color: purple;
+    font-family: "verdana", sans-serif;
+    font-size: 30px;
+    background-color: wheat;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.bodyText a:hover {
+    background-color: rgb(177, 158, 123);
+}
